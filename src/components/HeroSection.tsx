@@ -27,7 +27,7 @@ const HeroSection = () => {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-primary font-sans text-sm md:text-base tracking-[0.3em] uppercase mb-4"
         >
-          Sri Gayatri Photo Studio
+          Sri Gayathri Photo Studio
         </motion.p>
 
         <motion.h1
